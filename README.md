@@ -11,4 +11,4 @@ Version Control: Git
 Code Editor:  VS Code
 
 Reference: 
-Udemy Python-Django Ecommerse web Application Developement.
+Udemy Python-Django Ecommerse web Application Developement (Youtube: https://youtube.com/playlist?list=PLBxwSeQlMDNiZU0TstZLivBGbtUmBEBgl&si=CitIJEqOcFicfBOu )
